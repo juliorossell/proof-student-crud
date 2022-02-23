@@ -1,0 +1,26 @@
+.flex-row {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container {
+  width: 200px;
+  height: 200px;
+  border: 1px solid green;
+
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mb-1{
+  margin-bottom: 1rem;
+}
